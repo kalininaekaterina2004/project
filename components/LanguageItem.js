@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
         alignItems: 'center',
-        padding: 10,
+        padding: 35,
     },
     logo: {
         width: 150,

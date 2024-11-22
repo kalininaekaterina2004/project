@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     сontainer: {
         flexDirection: 'column',
         alignItems: 'flex-start',
-        paddingTop: 40,
+        paddingTop: 20,
     },
 });
 
