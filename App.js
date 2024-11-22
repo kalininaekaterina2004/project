@@ -6,7 +6,6 @@ const langs = [
     { id: '1', lang: 'JavaScript', logo: require('./assets/js-logo.png') },
      { id: '2', lang: 'C#', logo: require('./assets/c#-logo.png') },
     { id: '3', lang: 'Java', logo: require('./assets/java-logo.png') },
-    // Добавьте остальные языки и их логотипы
 ];
 
 function App () {
